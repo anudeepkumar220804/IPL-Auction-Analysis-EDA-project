@@ -1,0 +1,522 @@
+,Player,Role,Country,Status,Base Price,Final Price,Team,Year,Overseas,T20 Batting Avg,T20 Bowling Avg,3_Wkt_Hauls,Batting_Innings,Bowling_Innings,40_Plus_Scores,Price Increase
+0,Rishabh Pant,WK-Batter,India,Sold,2.0,27.0,LSG,2025,Indian,32.5,0.0,0,195,0,68,25.0
+1,Bhuvneshwar Kumar,Bowler,India,Sold,2.0,10.75,RCB,2025,Indian,15.0,24.5,14,90,285,1,8.75
+2,Faf du Plessis,Batter,South Africa,Sold,2.0,2.0,DC,2025,Overseas,32.0,18.0,0,330,10,95,0.0
+3,Deepak Chahar,Bowler,India,Unsold,2.0,0.0,Unsold,2025,Indian,13.8,28.2,6,55,145,2,-2.0
+4,Akash Deep,Bowler,India,Sold,1.0,8.0,LSG,2025,Indian,10.64,25.52,8,17,210,0,7.0
+5,Mohit Rathee,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,9.49,34.85,2,7,63,0,-0.3
+6,Vignesh Puthur,Allrounder,India,Sold,0.3,0.3,MI,2025,Indian,25.47,26.97,3,156,89,20,0.0
+7,Ashok Sharma,Bowler,India,Sold,0.3,0.3,RR,2025,Indian,9.53,24.2,7,21,133,0,0.0
+8,Raj Limbani,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,17.75,30.62,2,61,44,6,-0.3
+9,Abhinandan Singh,Bowler,India,Sold,0.3,0.3,RCB,2025,Indian,9.34,27.23,11,52,171,0,0.0
+10,Lungi Ngidi,Bowler,South Africa,Sold,1.0,1.0,RCB,2025,Overseas,3.2,20.5,8,20,110,0,0.0
+11,Ottneil Baartman,Bowler,South Africa,Unsold,0.75,0.0,Unsold,2025,Overseas,13.81,31.11,4,18,75,0,-0.75
+12,Kulwant Khejroliya,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,14.21,33.18,3,7,76,0,-0.3
+13,Shivam Mavi,Bowler,India,Unsold,0.75,0.0,Unsold,2025,Indian,12.55,33.26,3,22,52,0,-0.75
+14,Lizaad Williams,Bowler,South Africa,Unsold,0.75,0.0,Unsold,2025,Overseas,13.98,27.04,3,19,70,0,-0.75
+15,Arjun Tendulkar,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,12.42,33.34,2,21,49,0,-0.3
+16,Kunal Singh Rathore,WK-Batter,India,Sold,0.3,0.3,RR,2025,Indian,33.27,0.0,0,171,0,27,0.0
+17,Khrievitso Kense,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,19.03,30.78,1,46,48,4,-0.3
+18,Madhav Tiwari,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,24.01,27.25,2,72,66,11,-0.3
+19,Tripurana Vijay,Allrounder,India,Sold,0.3,0.3,DC,2025,Indian,30.1,23.1,4,103,112,11,0.0
+20,Atit Sheth,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,24.38,28.86,2,45,69,7,-0.3
+21,Bevon Jacobs,Batter,New Zealand,Sold,0.3,0.3,MI,2025,Overseas,34.57,0.0,0,210,0,33,0.0
+22,Karim Janat,Allrounder,Afghanistan,Unsold,0.75,0.0,Unsold,2025,Overseas,16.22,32.35,2,56,70,8,-0.75
+23,Tejasvi Dahiya,WK-Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,17.2,0.0,0,75,0,18,-0.3
+24,Sandeep Warrier,Bowler,India,Unsold,0.75,0.0,Unsold,2025,Indian,11.15,33.21,5,13,70,0,-0.75
+25,Manvanth Kumar L,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,19.66,26.73,1,61,44,10,-0.3
+26,Matthew Short,Allrounder,Australia,Unsold,0.75,0.0,Unsold,2025,Overseas,23.17,26.65,1,58,40,11,-0.75
+27,Praveen Dubey,Allrounder,India,Sold,0.3,0.3,PBKS,2025,Indian,22.08,23.75,3,95,120,11,0.0
+28,Shivalik Sharma,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,21.72,29.02,1,63,37,7,-0.3
+29,Ajay Jadav Mandal,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,24.87,31.85,1,51,61,5,-0.3
+30,Leus du Plooy,Batter,England,Unsold,0.5,0.0,Unsold,2025,Overseas,23.94,0.0,0,85,0,17,-0.5
+31,Kwena Maphaka,Bowler,South Africa,Unsold,0.75,0.0,Unsold,2025,Overseas,12.69,29.75,4,10,70,0,-0.75
+32,Tom Latham,WK-Batter,New Zealand,Unsold,1.5,0.0,Unsold,2025,Overseas,18.64,0.0,0,46,0,11,-1.5
+33,Sikandar Raza,Allrounder,Zimbabwe,Unsold,1.25,0.0,Unsold,2025,Overseas,22.64,29.86,1,55,56,8,-1.25
+34,Gus Atkinson,Allrounder,England,Unsold,2.0,0.0,Unsold,2025,Overseas,20.0,27.32,1,43,40,6,-2.0
+35,Brandon King,Batter,West Indies,Unsold,0.75,0.0,Unsold,2025,Overseas,21.77,0.0,0,57,0,9,-0.75
+36,Matthew Breetzke,Batter,South Africa,Sold,0.75,0.75,LSG,2025,Overseas,31.62,0.0,0,164,0,39,0.0
+37,Murugan Ashwin,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,5.5,30.96,4,22,81,0,-0.3
+38,LR Chethan,WK-Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,15.92,0.0,0,84,0,16,-0.3
+39,Arshin Kulkarni,Allrounder,India,Sold,0.3,0.3,LSG,2025,Indian,31.35,25.16,4,165,109,16,0.0
+40,Tanush Kotian,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,23.41,34.08,1,60,38,7,-0.3
+41,RS Hangargekar,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,18.75,29.42,1,63,57,8,-0.3
+42,Andre Siddarth C,Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,23.09,0.0,0,49,0,9,-0.3
+43,Sachin Baby,Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,22.37,0.0,0,45,0,9,-0.3
+44,Umran Malik,Bowler,India,Unsold,0.75,0.0,Unsold,2025,Indian,8.51,34.68,3,22,55,0,-0.75
+45,Moeen Ali,Allrounder,England,Unsold,2.0,0.0,Unsold,2025,Overseas,24.8,25.5,5,270,210,52,-2.0
+46,Dewald Brevis,Batter,South Africa,Unsold,0.75,0.0,Unsold,2025,Overseas,21.66,0.0,0,67,0,15,-0.75
+47,Swastik Chikara,Batter,India,Sold,0.3,0.3,RCB,2025,Indian,26.69,0.0,0,175,0,38,0.0
+48,Prashant Solanki,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,10.67,25.22,2,19,51,0,-0.3
+49,Prince Choudhary,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,12.31,30.56,5,12,79,0,-0.3
+50,Harvik Desai,WK-Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,21.77,0.0,0,52,0,9,-0.3
+51,Vansh Bedi,WK-Batter,India,Sold,0.3,0.55,CSK,2025,Indian,25.21,0.0,0,192,0,39,0.25000000000000006
+52,Anukul Roy,Allrounder,India,Sold,0.3,0.4,KKR,2025,Indian,25.69,27.99,5,151,117,17,0.10000000000000003
+53,Pukhraj Mann,Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,16.49,0.0,0,60,0,10,-0.3
+54,Donovan Ferreira,WK-Batter,South Africa,Unsold,0.75,0.0,Unsold,2025,Overseas,32.0,35.0,0,50,10,12,-0.75
+55,Shardul Thakur,Allrounder,India,Unsold,2.0,0.0,Unsold,2025,Indian,14.5,26.8,9,85,190,5,-2.0
+56,Ajinkya Rahane,Batter,India,Sold,1.5,1.5,KKR,2025,Indian,29.5,0.0,0,360,0,92,0.0
+57,Glenn Phillips,Batter,New Zealand,Sold,2.0,2.0,GT,2025,Overseas,33.0,32.0,2,220,60,58,0.0
+58,Mayank Agarawal,Batter,India,Unsold,1.0,0.0,Unsold,2025,Indian,15.61,0.0,0,81,0,18,-1.0
+59,Shreyas Gopal,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,9.13,34.92,6,10,78,0,-0.3
+60,Piyush Chawla,Bowler,India,Unsold,0.5,0.0,Unsold,2025,Indian,9.0,31.28,5,9,88,0,-0.5
+61,Luvnith Sisodia,WK-Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,19.8,0.0,0,72,0,13,-0.3
+62,Anmolpreet Singh,Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,17.98,0.0,0,76,0,17,-0.3
+63,David Warner,Batter,Australia,Unsold,2.0,0.0,Unsold,2025,Overseas,33.0,0.0,0,370,0,122,-2.0
+64,Devdutt Padikkal,Batter,India,Sold,2.0,2.0,RCB,2025,Indian,20.43,0.0,0,196,0,35,0.0
+65,Yash Dabas,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,17.82,31.45,1,44,50,6,-0.3
+66,Digvijay Deshmukh,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,16.67,27.42,1,60,60,10,-0.3
+67,Umang Kumar,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,18.78,28.09,2,43,52,7,-0.3
+68,Eshan Malinga,Bowler,Sri Lanka,Unsold,0.3,0.0,Unsold,2025,Overseas,12.09,29.77,5,21,85,0,-0.3
+69,Avinash Singh,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,12.28,28.36,5,7,90,0,-0.3
+70,Sanjay Yadav,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,20.08,28.41,1,40,57,6,-0.3
+71,Ripal Patel,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,19.15,30.02,1,69,67,11,-0.3
+72,Vaibhav Suryavanshi,Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,24.34,0.0,0,84,0,16,-0.3
+73,Chris Jordan,Bowler,England,Unsold,2.0,0.0,Unsold,2025,Overseas,14.0,27.5,8,120,300,10,-2.0
+74,Kyle Jamieson,Bowler,New Zealand,Unsold,1.5,0.0,Unsold,2025,Overseas,10.06,27.4,2,21,49,0,-1.5
+75,Nathan Smith,Allrounder,New Zealand,Unsold,1.0,0.0,Unsold,2025,Overseas,15.68,34.31,2,45,55,7,-1.0
+76,Vijay Kumar,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,13.54,31.56,5,16,78,0,-0.3
+77,Roston Chase,Allrounder,West Indies,Unsold,0.75,0.0,Unsold,2025,Overseas,17.67,29.97,0,56,42,7,-0.75
+78,Brandon McMullen,Allrounder,Scotland,Unsold,0.3,0.0,Unsold,2025,Overseas,24.92,26.57,3,40,72,7,-0.3
+79,Blessing Muzarabani,Bowler,Zimbabwe,Unsold,0.75,0.0,Unsold,2025,Overseas,7.01,26.73,3,12,75,0,-0.75
+80,Dwaine Pretorius,Allrounder,South Africa,Unsold,0.75,0.0,Unsold,2025,Overseas,22.9,29.56,2,49,50,9,-0.75
+81,Satyanarayana Raju,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,13.8,25.1,5,15,73,0,-0.3
+82,Shiva Singh,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,19.89,33.47,1,62,43,6,-0.3
+83,Anshuman Hooda,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,7.27,33.39,2,19,46,0,-0.3
+84,Ramakrishna Ghosh,Allrounder,India,Sold,0.3,0.3,CSK,2025,Indian,31.71,27.94,5,117,120,20,0.0
+85,Pyla Avinash,Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,23.8,0.0,0,88,0,16,-0.3
+86,Olly Stone,Bowler,England,Unsold,0.75,0.0,Unsold,2025,Overseas,9.94,28.31,5,21,81,0,-0.75
+87,Lance Morris,Bowler,Australia,Unsold,1.25,0.0,Unsold,2025,Overseas,11.52,27.36,3,21,51,0,-1.25
+88,Kamlesh Nagarkoti,Allrounder,India,Sold,0.3,0.3,CSK,2025,Indian,30.39,25.62,4,100,100,10,0.0
+89,Yuvraj Chaudhary,Allrounder,India,Sold,0.3,0.3,LSG,2025,Indian,29.76,26.15,6,120,156,14,0.0
+90,Abdul Basith,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,21.47,34.91,1,62,70,9,-0.3
+91,Chetan Sakariya,Bowler,India,Unsold,0.75,0.0,Unsold,2025,Indian,14.26,27.56,3,12,69,0,-0.75
+92,William ORourke,Bowler,New Zealand,Unsold,1.5,0.0,Unsold,2025,Overseas,9.23,29.75,5,22,79,0,-1.5
+93,Adam Milne,Bowler,New Zealand,Unsold,2.0,0.0,Unsold,2025,Overseas,8.5,23.8,5,35,120,0,-2.0
+94,Dilshan Madushanka,Bowler,Sri Lanka,Unsold,0.75,0.0,Unsold,2025,Overseas,2.0,25.0,2,10,45,0,-0.75
+95,Xavier Bartlett,Bowler,Australia,Sold,0.75,0.8,PBKS,2025,Overseas,6.13,27.32,8,52,147,0,0.050000000000000044
+96,Jamie Overton,Allrounder,England,Sold,1.5,1.5,CSK,2025,Overseas,33.82,25.04,3,151,109,25,0.0
+97,Michael Bracewell,Allrounder,New Zealand,Unsold,1.5,0.0,Unsold,2025,Overseas,19.95,25.33,2,62,68,9,-1.5
+98,Naman Tiwari,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,13.49,27.0,3,9,45,0,-0.3
+99,Prince Yadav,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,5.76,25.76,4,18,73,0,-0.3
+100,Divesh Sharma,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,5.15,32.51,6,16,87,0,-0.3
+101,Suryansh Shedge,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,21.69,31.56,1,49,49,7,-0.3
+102,Musheer Khan,Batter,India,Sold,0.3,0.3,PBKS,2025,Indian,22.83,0.0,0,115,0,20,0.0
+103,Emanjot Singh Chahal,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,15.2,34.04,2,39,51,4,-0.3
+104,Raj Bawa,Allrounder,India,Sold,0.3,0.3,MI,2025,Indian,32.94,26.27,2,114,109,11,0.0
+105,Aniket Verma,Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,21.94,0.0,0,81,0,12,-0.3
+106,Salman Nizar,Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,18.57,0.0,0,67,0,13,-0.3
+107,Navdeep Saini,Bowler,India,Unsold,0.75,0.0,Unsold,2025,Indian,11.49,30.28,5,10,78,0,-0.75
+108,Shamar Joseph,Bowler,India,Traded,0.0,0.75,LSG,2025,Overseas,14.28,27.62,3,16,81,0,0.75
+109,Nathan Ellis,Bowler,Australia,Sold,1.25,2.0,CSK,2025,Overseas,6.0,23.0,4,20,110,0,0.75
+110,Dushmantha Chameera,Bowler,Sri Lanka,Unsold,0.75,0.0,Unsold,2025,Overseas,6.0,26.5,4,25,110,0,-0.75
+111,Jason Behrendorff,Bowler,Australia,Unsold,1.5,0.0,Unsold,2025,Overseas,5.0,22.0,4,25,120,0,-1.5
+112,Kamindu Mendis,Allrounder,Sri Lanka,Sold,0.75,0.75,SRH,2025,Overseas,29.57,22.88,6,142,128,20,0.0
+113,Kyle Mayers,Allrounder,West Indies,Unsold,1.5,0.0,Unsold,2025,Overseas,25.0,28.0,2,130,90,32,-1.5
+114,Sarfaraz Khan,Allrounder,India,Unsold,0.75,0.0,Unsold,2025,Indian,19.81,31.27,2,44,66,7,-0.75
+115,Aaron Hardie,Allrounder,Australia,Sold,1.25,1.25,PBKS,2025,Overseas,28.28,23.22,7,120,162,15,0.0
+116,Brydon Carse,Allrounder,England,Unsold,1.0,0.0,Unsold,2025,Overseas,16.02,26.78,1,44,60,7,-1.0
+117,Jacob Bethell,Allrounder,England,Sold,1.25,2.6,RCB,2025,Overseas,33.57,27.81,3,100,145,18,1.35
+118,Arpit Guleria,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,11.88,27.15,4,9,75,0,-0.3
+119,Krishnan Shrijith,WK-Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,15.7,0.0,0,55,0,12,-0.3
+120,Vipraj Nigam,Allrounder,India,Sold,0.3,0.5,DC,2025,Indian,30.76,23.84,3,112,100,18,0.2
+121,Manoj Bhandage,Allrounder,India,Sold,0.3,0.3,RCB,2025,Indian,22.25,26.5,5,140,137,17,0.0
+122,Priyansh Arya,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,16.79,28.2,2,67,70,11,-0.3
+123,Sachin Dhas,Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,22.56,0.0,0,88,0,18,-0.3
+124,Reece Topley,Bowler,England,Sold,0.75,0.75,MI,2025,Overseas,5.0,22.0,4,25,130,0,0.0
+125,Luke Wood,Bowler,England,Unsold,0.75,0.0,Unsold,2025,Overseas,8.0,24.0,3,30,110,0,-0.75
+126,Kuldeep Sen,Bowler,India,Unsold,0.75,0.0,Unsold,2025,Indian,13.51,33.36,3,12,73,0,-0.75
+127,Richard Gleeson,Bowler,England,Unsold,0.75,0.0,Unsold,2025,Overseas,5.43,25.7,4,19,70,0,-0.75
+128,Alzarri Joseph,Bowler,West Indies,Unsold,2.0,0.0,Unsold,2025,Overseas,9.0,25.5,6,45,130,0,-2.0
+129,Fazalhaq Farooqi,Bowler,Afghanistan,Unsold,2.0,0.0,Unsold,2025,Overseas,1.5,21.0,5,10,80,0,-2.0
+130,Jayant Yadav,Allrounder,India,Unsold,0.75,0.0,Unsold,2025,Indian,24.45,29.36,1,64,45,8,-0.75
+131,Mitchell Santner,Allrounder,New Zealand,Unsold,2.0,0.0,Unsold,2025,Overseas,22.5,23.5,4,140,180,22,-2.0
+132,Steven Smith,Batter,Australia,Unsold,2.0,0.0,Unsold,2025,Overseas,24.67,0.0,0,79,0,12,-2.0
+133,Pathum Nissanka,Batter,Sri Lanka,Unsold,0.75,0.0,Unsold,2025,Overseas,28.0,0.0,0,110,0,35,-0.75
+134,Bailapudi Yeswanth,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,7.15,34.58,3,12,67,0,-0.3
+135,Raghav Goyal,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,11.39,25.82,3,9,72,0,-0.3
+136,Gurjapneet Singh,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,11.93,25.71,3,15,48,0,-0.3
+137,Akash Singh,Bowler,India,Sold,0.3,0.3,LSG,2025,Indian,13.4,24.49,9,38,203,0,0.0
+138,Ashwani Kumar,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,8.28,29.09,6,13,85,0,-0.3
+139,Shivam Singh,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,20.68,34.34,2,64,62,12,-0.3
+140,Rishi Dhawan,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,20.83,34.83,1,67,36,10,-0.3
+141,Yudhvir Singh Charak,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,19.2,26.39,1,50,37,9,-0.3
+142,Harnoor Singh,Batter,India,Sold,0.3,0.3,PBKS,2025,Indian,22.64,0.0,0,115,0,23,0.0
+143,Rishad Hossain,Bowler,Bangladesh,Unsold,0.75,0.0,Unsold,2025,Overseas,12.11,25.62,2,22,55,0,-0.75
+144,Umesh Yadav,Bowler,India,Unsold,2.0,0.0,Unsold,2025,Indian,6.32,30.23,5,19,72,0,-2.0
+145,Jaydev Unadkat,Bowler,India,Unsold,1.0,0.0,Unsold,2025,Indian,7.12,33.53,1,10,45,0,-1.0
+146,Nuwan Thushara,Bowler,Sri Lanka,Unsold,0.75,0.0,Unsold,2025,Overseas,2.0,21.0,4,10,80,0,-0.75
+147,Ishant Sharma,Bowler,India,Unsold,0.75,0.0,Unsold,2025,Indian,5.0,29.0,4,45,160,0,-0.75
+148,Mustafizur Rahman,Bowler,Bangladesh,Unsold,2.0,0.0,Unsold,2025,Overseas,4.0,23.0,9,35,190,0,-2.0
+149,Spencer Johnson,Bowler,Australia,Sold,2.0,2.8,KKR,2025,Overseas,4.0,22.5,2,10,45,0,0.7999999999999998
+150,Josh Philippe,WK-Batter,Australia,Unsold,0.75,0.0,Unsold,2025,Overseas,18.86,0.0,0,64,0,13,-0.75
+151,Romario Shepherd,Allrounder,West Indies,Unsold,1.5,0.0,Unsold,2025,Overseas,22.0,24.0,3,110,120,18,-1.5
+152,Ravisrinivasan Sai Kishore,Allrounder,India,Unsold,0.0,0.0,Unsold,2025,Overseas,15.57,29.78,3,49,67,9,0.0
+153,Azmatullah Omarzai,Allrounder,Afghanistan,Sold,1.5,2.4,PBKS,2025,Overseas,23.0,28.0,2,80,85,15,0.8999999999999999
+154,Will Jacks,Allrounder,England,Unsold,2.0,0.0,Unsold,2025,Overseas,29.0,26.0,3,140,70,38,-2.0
+155,Deepak Hooda,Allrounder,India,Sold,0.75,1.7,CSK,2025,Indian,25.45,27.48,6,103,145,12,0.95
+156,Shahbaz Ahmed,Allrounder,India,Sold,1.0,2.4,LSG,2025,Indian,21.66,23.69,4,142,114,22,1.4
+157,Tim David,Allrounder,Australia,Sold,2.0,3.0,RCB,2025,Overseas,31.0,0.0,0,200,10,48,1.0
+158,Sherfane Rutherford,Allrounder,West Indies,Sold,1.5,2.6,GT,2025,Overseas,26.0,35.0,0,120,15,28,1.1
+159,Manish Pandey,Batter,India,Sold,0.75,0.75,KKR,2025,Indian,29.0,0.0,0,310,0,72,0.0
+160,Ben Duckett,Batter,England,Unsold,2.0,0.0,Unsold,2025,Overseas,29.0,0.0,0,190,0,55,-2.0
+161,Finn Allen,Batter,New Zealand,Unsold,2.0,0.0,Unsold,2025,Overseas,28.5,0.0,0,120,0,35,-2.0
+162,Jhatavedh Subramanyan,Bowler,Hong Kong,Unsold,0.3,0.0,Unsold,2025,Overseas,7.24,32.6,1,7,46,0,-0.3
+163,Digvesh Singh,Bowler,India,Sold,0.3,0.3,LSG,2025,Indian,6.61,24.41,7,31,154,0,0.0
+164,Manimaran Siddharth,Bowler,India,Sold,0.3,0.75,LSG,2025,Indian,5.42,23.6,7,17,147,0,0.45
+165,Zeeshan Ansari,Bowler,India,Sold,0.3,0.4,SRH,2025,Indian,5.26,27.68,6,42,157,0,0.10000000000000003
+166,Rajan Kumar,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,7.51,28.56,4,16,61,0,-0.3
+167,Vidhwath Kaverappa,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,10.05,28.53,2,19,45,0,-0.3
+168,Sakib Hussain,Bowler,India,Unsold,0.3,0.0,Unsold,2025,Indian,12.85,28.56,5,12,76,0,-0.3
+169,Mukesh Choudhary,Bowler,India,Sold,0.3,0.3,CSK,2025,Indian,7.04,26.18,7,35,140,0,0.0
+170,Gurnoor Brar,Bowler,India,Sold,0.3,1.3,GT,2025,Indian,6.5,25.02,7,42,164,0,1.0
+171,Swapnil Singh,Allrounder,India,Traded,0.0,0.5,RCB,2025,Overseas,18.34,34.2,2,68,62,8,0.5
+172,Aravelly Avanish,WK-Batter,India,Unsold,0.3,0.0,Unsold,2025,Indian,24.52,0.0,0,72,0,14,-0.3
+173,Anshul Kamboj,Allrounder,India,Sold,0.3,3.4,CSK,2025,Indian,24.16,22.83,5,86,140,16,3.1
+174,Darshan Nalkande,Allrounder,India,Sold,0.3,0.3,DC,2025,Indian,27.52,25.93,6,140,137,15,0.0
+175,Arshad Khan,Allrounder,India,Sold,0.3,1.3,GT,2025,Indian,21.17,27.81,3,159,159,27,1.0
+176,Mayank Dagar,Allrounder,India,Unsold,0.3,0.0,Unsold,2025,Indian,18.88,27.24,1,66,60,10,-0.3
+177,Himmat Singh,Batter,India,Sold,0.3,0.3,LSG,2025,Indian,21.42,0.0,0,105,0,16,0.0
+178,Shaik Rasheed,Batter,India,Sold,0.3,0.3,CSK,2025,Indian,22.92,0.0,0,175,0,41,0.0
+179,Ruturaj Gaikwad,Batter,India,Retained,0.0,18.0,CSK,2025,Indian,38.0,0.0,0,130,0,48,18.0
+180,Ravindra Jadeja,Allrounder,India,Retained,0.0,18.0,CSK,2025,Indian,26.0,29.5,4,250,310,28,18.0
+181,Matheesha Pathirana,Bowler,Sri Lanka,Retained,0.0,13.0,CSK,2025,Overseas,1.5,23.0,3,10,55,0,13.0
+182,Shivam Dube,Allrounder,India,Retained,0.0,12.0,CSK,2025,Indian,27.0,32.0,1,130,70,32,12.0
+183,MS Dhoni,WK-Batter,India,Retained,0.0,4.0,CSK,2025,Indian,38.0,0.0,0,380,0,85,4.0
+184,Axar Patel,Allrounder,India,Retained,0.0,16.5,DC,2025,Indian,22.0,28.0,6,175,260,15,16.5
+185,Kuldeep Yadav,Bowler,India,Retained,0.0,13.25,DC,2025,Indian,11.0,21.5,10,40,175,0,13.25
+186,Tristan Stubbs,Batter,South Africa,Retained,0.0,10.0,DC,2025,Overseas,30.0,26.0,0,70,20,18,10.0
+187,Abhishek Porel,WK-Batter,India,Retained,0.0,4.0,DC,2025,Indian,21.18,0.0,0,112,0,21,4.0
+188,Rashid Khan,Allrounder,Afghanistan,Retained,0.0,18.0,GT,2025,Overseas,13.5,20.5,15,165,430,8,18.0
+189,Shubman Gill,Batter,India,Retained,0.0,16.5,GT,2025,Indian,34.0,0.0,0,150,0,52,16.5
+190,Sai Sudharsan,Batter,India,Retained,0.0,8.5,GT,2025,Indian,27.42,0.0,0,182,0,29,8.5
+191,Rahul Tewatia,Allrounder,India,Retained,0.0,4.0,GT,2025,Indian,24.0,30.0,2,100,110,12,4.0
+192,Shahrukh Khan,Allrounder,India,Retained,0.0,4.0,GT,2025,Indian,25.58,25.03,3,168,123,26,4.0
+193,Kyle Jamieson,Bowler,New Zealand,Sold,2.0,2.0,DC,2026,Overseas,8.05,22.06,7,52,105,0,0.0
+194,Kanishk Chouhan,Allrounder,India,Sold,0.3,0.3,RCB,2026,Indian,31.66,26.37,2,134,84,16,0.0
+195,Vihaan Malhotra,Bowler,India,Sold,0.3,0.3,RCB,2026,Indian,6.15,24.27,9,49,133,0,0.0
+196,RS Ambrish,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,16.78,29.12,2,43,44,7,-0.3
+197,Luke Wood,Bowler,England,Sold,0.75,0.75,GT,2026,Overseas,8.0,24.0,3,30,110,0,0.0
+198,Will Sutherland,Allrounder,Australia,Unsold,1.0,0.0,Unsold,2026,Overseas,19.22,30.8,1,51,44,9,-1.0
+199,Prithvi Raj Yarra,Bowler,India,Sold,0.3,0.3,GT,2026,Indian,12.29,26.7,12,45,206,0,0.0
+200,Vicky Ostwal,Allrounder,India,Sold,0.3,0.3,RCB,2026,Indian,34.82,23.06,3,162,89,30,0.0
+201,Kuldeep Sen,Bowler,India,Sold,0.75,0.75,RR,2026,Indian,12.6,27.27,7,42,140,0,0.0
+202,Adam Milne,Bowler,New Zealand,Sold,2.0,2.4,RR,2026,Overseas,8.5,23.8,5,35,120,0,0.3999999999999999
+203,Tom Banton,WK-Batter,England,Sold,2.0,2.0,GT,2026,Overseas,33.0,0.0,0,140,0,31,0.0
+204,Zakary Foulkes,Allrounder,New Zealand,Sold,0.75,0.75,CSK,2026,Overseas,21.13,22.36,6,137,126,16,0.0
+205,Sanvir Singh,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,15.08,26.01,1,39,46,4,-0.3
+206,Spencer Johnson,Bowler,Australia,Unsold,1.5,0.0,Unsold,2026,Overseas,4.0,22.5,2,10,45,0,-1.5
+207,Jamie Smith,WK-Batter,England,Unsold,2.0,0.0,Unsold,2026,Overseas,24.66,0.0,0,49,0,8,-2.0
+208,Deepak Hooda,Allrounder,India,Unsold,0.75,0.0,Unsold,2026,Indian,16.07,33.34,1,62,38,10,-0.75
+209,Prithvi Shaw,Batter,India,Sold,0.75,0.75,DC,2026,Indian,26.41,0.0,0,178,0,40,0.0
+210,Swastik Chikara,Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,17.2,0.0,0,75,0,18,-0.3
+211,Chama V Milind,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,14.57,32.0,3,21,57,0,-0.3
+212,Jack Edwards,Allrounder,Australia,Sold,0.5,3.0,SRH,2026,Overseas,34.57,24.79,2,89,92,15,2.5
+213,Ritik Tada,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,17.0,31.73,1,69,49,10,-0.3
+214,Brijesh Sharma,Bowler,India,Sold,0.3,0.3,RR,2026,Indian,12.52,23.45,11,42,178,0,0.0
+215,Siddarth Yadav,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,24.17,32.96,1,44,42,5,-0.3
+216,Macneil Noronha,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,20.5,29.03,1,37,43,7,-0.3
+217,Vishal Nishad,Bowler,India,Sold,0.3,0.3,PBKS,2026,Indian,8.52,27.28,7,21,164,0,0.0
+218,Money Grewal,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,12.81,27.89,4,10,73,0,-0.3
+219,Mayank Dagar,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,16.77,29.32,1,39,62,5,-0.3
+220,Sahil Parakh,Batter,India,Sold,0.3,0.3,DC,2026,Indian,33.96,0.0,0,122,0,18,0.0
+221,Riley Meredith,Bowler,Australia,Unsold,1.5,0.0,Unsold,2026,Overseas,5.5,29.52,3,9,49,0,-1.5
+222,Richard Gleeson,Bowler,England,Unsold,0.75,0.0,Unsold,2026,Overseas,12.15,30.15,3,21,54,0,-0.75
+223,Praveen Dubey,Bowler,India,Sold,0.3,0.3,PBKS,2026,Indian,8.4,24.35,9,21,171,0,0.0
+224,Murugan Ashwin,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,10.31,27.3,4,16,87,0,-0.3
+225,Mayank Rawat,Allrounder,India,Sold,0.3,0.3,MI,2026,Indian,25.04,26.65,3,140,89,25,0.0
+226,Manan Vohra,Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,23.11,0.0,0,82,0,20,-0.3
+227,Aman Rao,Batter,India,Sold,0.3,0.3,RR,2026,Indian,29.57,0.0,0,112,0,24,0.0
+228,Salman Nizar,Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,21.26,0.0,0,79,0,17,-0.3
+229,Lungi Ngidi,Bowler,South Africa,Sold,2.0,2.0,DC,2026,Overseas,3.2,20.5,8,20,110,0,0.0
+230,Josh Inglis,WK-Batter,Australia,Sold,2.0,8.6,LSG,2026,Overseas,23.23,0.0,0,199,0,46,6.6
+231,Jordan Cox,WK-Batter,England,Sold,0.75,0.75,RCB,2026,Overseas,25.82,0.0,0,143,0,29,0.0
+232,Ben Dwarshuis,Allrounder,Australia,Sold,1.0,4.4,PBKS,2026,Overseas,33.3,27.45,1,98,86,11,3.4000000000000004
+233,Michael Bracewell,Allrounder,New Zealand,Unsold,2.0,0.0,Unsold,2026,Overseas,19.88,33.65,1,39,58,6,-2.0
+234,Akash Madhwal,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,12.61,30.74,3,21,79,0,-0.3
+235,Ruchit Ahir,WK-Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,17.77,0.0,0,73,0,13,-0.3
+236,Kamlesh Nagarkoti,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,15.41,32.74,2,48,46,9,-0.3
+237,RS Hangargekar,Allrounder,India,Unsold,0.4,0.0,Unsold,2026,Indian,22.78,26.41,2,67,68,9,-0.4
+238,Atharva Taide,Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,20.34,0.0,0,66,0,14,-0.3
+239,Rahul Chahar,Bowler,India,Sold,1.0,5.2,CSK,2026,Indian,10.57,25.16,10,21,150,0,4.2
+240,Shivam Mavi,Bowler,India,Sold,0.75,0.75,SRH,2026,Indian,14.66,22.36,6,17,122,0,0.0
+241,Matt Henry,Bowler,New Zealand,Sold,2.0,2.0,CSK,2026,Overseas,12.0,25.0,4,45,110,0,0.0
+242,Akash Deep,Bowler,India,Sold,1.0,1.0,KKR,2026,Indian,9.21,24.99,15,45,196,0,0.0
+243,Rachin Ravindra,Allrounder,New Zealand,Sold,2.0,2.0,KKR,2026,Overseas,24.0,30.0,1,70,50,18,0.0
+244,Liam Livingstone,Allrounder,England,Sold,2.0,13.0,SRH,2026,Overseas,28.5,25.0,4,230,160,58,11.0
+245,Sarfaraz Khan,Batter,India,Sold,0.75,0.75,CSK,2026,Indian,31.93,0.0,0,189,0,33,0.0
+246,Jake Fraser-McGurk,Batter,Australia,Unsold,2.0,0.0,Unsold,2026,Overseas,15.63,0.0,0,81,0,19,-2.0
+247,Manisankar Murasingh,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,22.76,27.93,1,48,43,7,-0.3
+248,Daksh Kamra,Allrounder,India,Sold,0.3,0.3,KKR,2026,Indian,32.99,26.13,2,134,100,22,0.0
+249,Sarthak Ranjan,Allrounder,India,Sold,0.3,0.3,KKR,2026,Indian,24.22,25.2,4,131,103,24,0.0
+250,Krains Fuletra,Allrounder,India,Sold,0.3,0.3,SRH,2026,Indian,22.93,25.96,2,123,95,24,0.0
+251,Izaz Sawariya,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,5.56,30.06,3,10,63,0,-0.3
+252,Jikku Bright,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,9.75,33.66,4,10,66,0,-0.3
+253,Praful Hinge,Bowler,India,Sold,0.3,0.3,SRH,2026,Indian,7.94,23.3,13,17,196,0,0.0
+254,Ayush Vartak,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,18.41,30.04,1,50,58,7,-0.3
+255,Utkarsh Singh,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,22.54,28.87,1,44,38,7,-0.3
+256,Karan Lal,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,18.21,32.79,1,64,45,11,-0.3
+257,Atharva Ankolekar,Allrounder,India,Sold,0.3,0.3,MI,2026,Indian,27.01,24.47,1,162,95,23,0.0
+258,Daniel Lategan,Batter,England,Unsold,0.3,0.0,Unsold,2026,Overseas,24.41,0.0,0,48,0,10,-0.3
+259,Nathan Smith,Allrounder,New Zealand,Unsold,0.75,0.0,Unsold,2026,Overseas,15.63,33.35,2,58,54,6,-0.75
+260,Amit Kumar,Bowler,India,Sold,0.3,0.3,SRH,2026,Indian,12.79,26.36,9,49,182,0,0.0
+261,Chintal Gandhi,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,5.84,28.3,5,21,90,0,-0.3
+262,Irfan Umair,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,7.85,32.28,4,21,75,0,-0.3
+263,Tejasvi Dahiya,WK-Batter,India,Sold,0.3,3.0,KKR,2026,Indian,31.35,0.0,0,178,0,37,2.7
+264,Connor Esterhuizen,WK-Batter,South Africa,Unsold,0.3,0.0,Unsold,2026,Overseas,24.19,0.0,0,69,0,14,-0.3
+265,Tanay Thyagarajan,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,23.65,34.02,1,48,42,5,-0.3
+266,Dheeraj Kumar,Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,24.34,0.0,0,55,0,13,-0.3
+267,Jhye Richardson,Bowler,Australia,Unsold,1.5,0.0,Unsold,2026,Overseas,11.0,21.5,3,40,80,0,-1.5
+268,Alzarri Joseph,Bowler,West Indies,Unsold,2.0,0.0,Unsold,2026,Overseas,9.0,25.5,6,45,130,0,-2.0
+269,Taskin Ahmed,Bowler,Bangladesh,Unsold,0.75,0.0,Unsold,2026,Overseas,5.86,28.58,3,16,52,0,-0.75
+270,Dan Lawrence,Allrounder,England,Unsold,2.0,0.0,Unsold,2026,Overseas,17.33,26.63,1,60,51,9,-2.0
+271,Cooper Connolly,Allrounder,Australia,Sold,2.0,3.0,PBKS,2026,Overseas,31.91,23.28,3,145,112,16,1.0
+272,Mohit Rathee,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,6.26,26.44,4,21,79,0,-0.3
+273,KC Cariappa,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,6.41,34.84,4,19,67,0,-0.3
+274,Tejas Baroka,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,11.43,34.02,2,13,51,0,-0.3
+275,Onkar Tukaram Tarmale,Bowler,India,Sold,0.3,0.3,SRH,2026,Indian,11.71,23.51,11,52,154,0,0.0
+276,Mohammed Salahuddin Izhar,Bowler,India,Sold,0.3,0.3,MI,2026,Indian,6.38,26.62,12,42,199,0,0.0
+277,Sakib Hussain,Bowler,India,Sold,0.3,0.3,SRH,2026,Indian,5.41,27.59,12,42,182,0,0.0
+278,KM Asif,Bowler,India,Unsold,0.4,0.0,Unsold,2026,Indian,10.5,33.35,3,12,60,0,-0.4
+279,Ravi Singh,WK-Batter,India,Sold,0.3,0.95,RR,2026,Indian,33.64,0.0,0,164,0,26,0.6499999999999999
+280,Salil Arora,WK-Batter,India,Sold,0.3,1.5,SRH,2026,Indian,29.93,0.0,0,119,0,17,1.2
+281,Mangesh Yadav,Allrounder,India,Sold,0.3,5.2,RCB,2026,Indian,20.02,25.38,3,106,106,14,4.9
+282,Aman Khan,Allrounder,India,Sold,0.3,0.4,CSK,2026,Indian,31.82,24.47,4,145,117,16,0.10000000000000003
+283,Satvik Deswal,Allrounder,India,Sold,0.3,0.3,RCB,2026,Indian,31.89,27.72,7,134,148,16,0.0
+284,Akshat Raghuwanshi,Batter,India,Sold,0.3,2.2,LSG,2026,Indian,34.39,0.0,0,122,0,19,1.9000000000000001
+285,Danish Malewar,Batter,India,Sold,0.3,0.3,MI,2026,Indian,23.12,0.0,0,154,0,26,0.0
+286,Waqar Salamkheil,Bowler,Afghanistan,Unsold,1.0,0.0,Unsold,2026,Overseas,12.4,25.74,4,21,73,0,-1.0
+287,Chetan Sakariya,Bowler,India,Unsold,0.75,0.0,Unsold,2026,Indian,7.61,30.05,2,15,51,0,-0.75
+288,Mustafizur Rahman,Bowler,Bangladesh,Sold,2.0,9.2,KKR,2026,Overseas,4.0,23.0,9,35,190,0,7.199999999999999
+289,Tim Seifert,WK-Batter,New Zealand,Sold,1.5,1.5,KKR,2026,Overseas,34.66,0.0,0,203,0,31,0.0
+290,Matthew Short,Allrounder,Australia,Sold,1.5,1.5,CSK,2026,Overseas,24.01,25.37,3,134,89,20,0.0
+291,Jason Holder,Allrounder,West Indies,Sold,2.0,7.0,GT,2026,Overseas,19.0,27.0,7,210,230,28,5.0
+292,Dasun Shanaka,Allrounder,Sri Lanka,Unsold,0.75,0.0,Unsold,2026,Overseas,18.28,26.31,1,40,64,4,-0.75
+293,Daryl Mitchell,Allrounder,New Zealand,Unsold,2.0,0.0,Unsold,2026,Overseas,30.0,24.0,2,190,90,48,-2.0
+294,Sean Abbott,Allrounder,Australia,Unsold,2.0,0.0,Unsold,2026,Overseas,18.55,29.1,1,45,46,7,-2.0
+295,Rahul Tripathi,Batter,India,Sold,0.75,0.75,KKR,2026,Indian,28.0,0.0,0,160,0,42,0.0
+296,Sediqullah Atal,Batter,Afghanistan,Unsold,0.75,0.0,Unsold,2026,Overseas,17.55,0.0,0,67,0,13,-0.75
+297,Pathum Nissanka,Batter,Sri Lanka,Sold,0.75,4.0,DC,2026,Overseas,28.0,0.0,0,110,0,35,3.25
+298,Kumar Kartikeya,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,9.25,28.86,6,12,88,0,-0.3
+299,Karn Sharma,Bowler,India,Unsold,0.5,0.0,Unsold,2026,Indian,9.89,29.91,3,7,61,0,-0.5
+300,Vignesh Puthur,Bowler,India,Sold,0.3,0.3,RR,2026,Indian,11.29,23.82,6,24,143,0,0.0
+301,Prashant Solanki,Bowler,India,Sold,0.3,0.3,KKR,2026,Indian,7.57,27.53,9,52,164,0,0.0
+302,Yash Raj Punja,Bowler,India,Sold,0.3,0.3,RR,2026,Indian,14.55,22.68,9,49,164,0,0.0
+303,Shivam Shukla,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,9.17,32.78,3,16,85,0,-0.3
+304,Wahidullah Zadran,Bowler,Afghanistan,Unsold,0.3,0.0,Unsold,2026,Overseas,6.44,25.93,4,13,64,0,-0.3
+305,Sushant Mishra,Bowler,India,Sold,0.3,0.9,RR,2026,Indian,9.84,23.25,10,24,199,0,0.6000000000000001
+306,Naman Tiwari,Bowler,India,Sold,0.3,1.0,LSG,2026,Indian,10.68,27.89,8,49,115,0,0.7
+307,Simarjeet Singh,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,13.84,32.9,4,7,85,0,-0.3
+308,Kartik Tyagi,Bowler,India,Sold,0.3,0.3,KKR,2026,Indian,6.1,24.36,11,35,161,0,0.0
+309,Raj Limbani,Bowler,India,Unsold,0.3,0.0,Unsold,2026,Indian,10.1,29.65,3,16,81,0,-0.3
+310,Ashok Sharma,Bowler,India,Sold,0.3,0.9,GT,2026,Indian,14.01,24.24,11,38,150,0,0.6000000000000001
+311,Tushar Raheja,WK-Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,21.78,0.0,0,78,0,18,-0.3
+312,Vansh Bedi,WK-Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,24.9,0.0,0,75,0,16,-0.3
+313,Mukul Choudhary,WK-Batter,India,Sold,0.3,2.6,LSG,2026,Indian,26.47,0.0,0,157,0,38,2.3000000000000003
+314,Kartik Sharma,WK-Batter,India,Sold,0.3,14.2,CSK,2026,Indian,34.85,0.0,0,147,0,25,13.899999999999999
+315,Tanush Kotian,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,23.13,27.67,1,36,62,3,-0.3
+316,Shivang Kumar,Allrounder,India,Sold,0.3,0.3,SRH,2026,Indian,20.53,22.69,2,156,117,26,0.0
+317,Prashant Veer,Allrounder,India,Sold,0.3,14.2,CSK,2026,Indian,20.73,25.52,4,128,109,22,13.899999999999999
+318,Eden Apple Tom,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,19.78,31.41,1,46,64,6,-0.3
+319,Mahipal Lomror,Allrounder,India,Unsold,0.5,0.0,Unsold,2026,Indian,24.74,26.7,1,57,36,9,-0.5
+320,Vijay Shankar,Allrounder,India,Unsold,0.3,0.0,Unsold,2026,Indian,20.22,30.19,1,54,68,9,-0.3
+321,Auqib Nabi Dar,Allrounder,India,Sold,0.3,8.4,DC,2026,Indian,27.42,22.33,3,165,86,28,8.1
+322,Aarya Desai,Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,23.14,0.0,0,58,0,10,-0.3
+323,Yash Dhull,Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,20.17,0.0,0,72,0,10,-0.3
+324,Abhinav Manohar,Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,20.08,0.0,0,63,0,11,-0.3
+325,Abhinav Tejrana,Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,16.86,0.0,0,87,0,13,-0.3
+326,Anmolpreet Singh,Batter,India,Unsold,0.3,0.0,Unsold,2026,Indian,19.71,0.0,0,73,0,12,-0.3
+327,Akeal Hosein,Bowler,West Indies,Sold,2.0,2.0,CSK,2026,Overseas,14.0,25.5,4,60,120,5,0.0
+328,Mujeeb Ur Rahman,Bowler,Afghanistan,Unsold,2.0,0.0,Unsold,2026,Overseas,9.09,30.03,3,19,75,0,-2.0
+329,Maheesh Theekshana,Bowler,Sri Lanka,Unsold,2.0,0.0,Unsold,2026,Overseas,3.0,24.5,3,35,100,0,-2.0
+330,Ravi Bishnoi,Bowler,India,Sold,2.0,7.2,RR,2026,Indian,2.0,23.5,5,20,95,0,5.2
+331,Fazalhaq Farooqi,Bowler,Afghanistan,Unsold,1.0,0.0,Unsold,2026,Overseas,1.5,21.0,5,10,80,0,-1.0
+332,Anrich Nortje,Bowler,South Africa,Sold,2.0,2.0,LSG,2026,Overseas,4.0,21.5,7,25,120,0,0.0
+333,Matheesha Pathirana,Bowler,Sri Lanka,Sold,2.0,18.0,KKR,2026,Overseas,1.5,23.0,3,10,55,0,16.0
+334,Gerald Coetzee,Bowler,South Africa,Unsold,2.0,0.0,Unsold,2026,Overseas,8.0,19.5,4,25,55,0,-2.0
+335,Jacob Duffy,Bowler,New Zealand,Sold,2.0,2.0,RCB,2026,Overseas,9.78,23.42,9,38,140,0,0.0
+336,Finn Allen,WK-Batter,New Zealand,Sold,2.0,2.0,KKR,2026,Overseas,28.5,0.0,0,120,0,35,0.0
+337,Ben Duckett,WK-Batter,England,Sold,2.0,2.0,DC,2026,Overseas,29.0,0.0,0,190,0,55,0.0
+338,Rahmanullah Gurbaz,WK-Batter,Afghanistan,Unsold,1.5,0.0,Unsold,2026,Overseas,25.5,0.0,0,140,0,42,-1.5
+339,Jonny Bairstow,WK-Batter,England,Unsold,1.0,0.0,Unsold,2026,Overseas,30.5,0.0,0,200,0,68,-1.0
+340,Srikar Bharat,WK-Batter,India,Unsold,0.75,0.0,Unsold,2026,Indian,17.78,0.0,0,63,0,13,-0.75
+341,Quinton de Kock,WK-Batter,South Africa,Sold,1.0,1.0,MI,2026,Overseas,32.0,0.0,0,320,0,98,0.0
+342,Venkatesh Iyer,Allrounder,India,Sold,2.0,7.0,RCB,2026,Indian,31.0,33.0,0,95,45,28,5.0
+343,Wanindu Hasaranga,Allrounder,Sri Lanka,Sold,2.0,2.0,LSG,2026,Overseas,16.0,17.5,7,130,170,12,0.0
+344,Wiaan Mulder,Allrounder,South Africa,Unsold,1.0,0.0,Unsold,2026,Overseas,16.72,26.26,2,42,63,6,-1.0
+345,Gus Atkinson,Allrounder,England,Unsold,2.0,0.0,Unsold,2026,Overseas,18.02,33.39,1,39,46,4,-2.0
+346,Cameron Green,Batter,Australia,Sold,2.0,25.2,KKR,2026,Overseas,34.0,30.0,1,90,70,22,23.2
+347,Devon Conway,Batter,New Zealand,Unsold,2.0,0.0,Unsold,2026,Overseas,41.0,0.0,0,170,0,68,-2.0
+348,David Miller,Batter,South Africa,Sold,2.0,2.0,DC,2026,Overseas,35.0,0.0,0,460,0,98,0.0
+349,Donovan Ferreira,Allrounder,South Africa,Traded,0.0,1.0,RR,2026,Overseas,32.0,35.0,0,50,10,12,1.0
+350,Sherfane Rutherford,Allrounder,West Indies,Traded,0.0,2.6,MI,2026,Overseas,26.0,35.0,0,120,15,28,2.6
+351,Mohammed Shami,Bowler,India,Traded,0.0,10.0,LSG,2026,Indian,5.0,23.5,12,45,195,0,10.0
+352,Arjun Tendulkar,Allrounder,India,Traded,0.0,0.3,LSG,2026,Indian,15.3,26.6,2,64,63,9,0.3
+353,Sam Curran,Allrounder,England,Traded,0.0,2.4,RR,2026,Overseas,20.0,28.5,6,150,170,28,2.4
+354,Akash Maharaj Singh,Bowler,India,Retained,0.0,0.3,LSG,2026,Indian,11.47,27.24,5,35,112,0,0.3
+355,Heinrich Klaasen,WK-Batter,South Africa,Retained,0.0,23.0,SRH,2026,Overseas,33.5,0.0,0,175,0,52,23.0
+356,Ishan Kishan,WK-Batter,India,Retained,0.0,11.25,SRH,2026,Indian,28.5,0.0,0,190,0,58,11.25
+357,Harshal Patel,Bowler,India,Retained,0.0,8.0,SRH,2026,Indian,11.0,23.5,11,85,200,3,8.0
+358,Jaydev Unadkat,Bowler,India,Retained,0.0,1.0,SRH,2026,Indian,5.11,23.49,5,24,140,0,1.0
+359,Kamindu Mendis,Allrounder,Sri Lanka,Retained,0.0,0.75,SRH,2026,Overseas,25.38,25.46,2,165,86,28,0.75
+360,Harsh Dubey,Allrounder,India,Retained,0.0,0.3,SRH,2026,Indian,32.18,23.1,5,148,123,19,0.3
+361,Nitish Kumar Reddy,Allrounder,India,Retained,0.0,6.0,SRH,2026,Indian,34.51,27.68,3,154,84,28,6.0
+362,Pat Cummins,Allrounder,Australia,Retained,0.0,18.0,SRH,2026,Overseas,34.4,24.13,6,95,145,13,18.0
+363,Smaran Ravichandran,Batter,India,Retained,0.0,0.3,SRH,2026,Indian,33.77,0.0,0,126,0,28,0.3
+364,Eshan Malinga,Bowler,Sri Lanka,Retained,0.0,1.2,SRH,2026,Overseas,8.53,23.54,14,35,199,0,1.2
+365,Brydon Carse,Bowler,England,Retained,0.0,1.0,SRH,2026,Overseas,6.01,27.67,6,42,122,0,1.0
+366,Travis Head,Batter,Australia,Retained,0.0,14.0,SRH,2026,Overseas,29.5,27.0,1,120,45,45,14.0
+367,Aniket Verma,Batter,India,Retained,0.0,0.3,SRH,2026,Indian,34.17,0.0,0,122,0,23,0.3
+368,Zeeshan Ansari,Bowler,India,Retained,0.0,0.4,SRH,2026,Indian,7.65,22.72,5,21,136,0,0.4
+369,Abhishek Sharma,Allrounder,India,Retained,0.0,14.0,SRH,2026,Indian,26.0,28.0,1,95,50,28,14.0
+370,Nuwan Thushara,Bowler,Sri Lanka,Retained,0.0,1.6,RCB,2026,Overseas,2.0,21.0,4,10,80,0,1.6
+371,Krunal Pandya,Allrounder,India,Retained,0.0,5.75,RCB,2026,Indian,24.0,27.5,4,160,180,18,5.75
+372,Philip Salt,WK-Batter,England,Retained,0.0,11.5,RCB,2026,Overseas,26.13,0.0,0,206,0,34,11.5
+373,Josh Hazlewood,Bowler,Australia,Retained,0.0,12.5,RCB,2026,Overseas,11.28,25.81,9,31,136,0,12.5
+374,Rajat Patidar,Batter,India,Retained,0.0,11.0,RCB,2026,Indian,30.06,0.0,0,199,0,46,11.0
+375,Jitesh Sharma,WK-Batter,India,Retained,0.0,11.0,RCB,2026,Indian,27.0,0.0,0,110,0,22,11.0
+376,Rasikh Dar Salam,Bowler,India,Retained,0.0,6.0,RCB,2026,Indian,11.98,22.09,11,42,161,0,6.0
+377,Romario Shepherd,Allrounder,West Indies,Retained,0.0,1.5,RCB,2026,Overseas,22.0,24.0,3,110,120,18,1.5
+378,Jacob Bethell,Allrounder,England,Retained,0.0,2.6,RCB,2026,Overseas,23.55,25.8,4,151,92,25,2.6
+379,Suyash Sharma,Bowler,India,Retained,0.0,2.6,RCB,2026,Indian,5.67,24.44,7,45,168,0,2.6
+380,Devdutt Padikkal,Batter,India,Retained,0.0,2.0,RCB,2026,Indian,21.69,0.0,0,157,0,37,2.0
+381,Swapnil Singh,Bowler,India,Retained,0.0,0.5,RCB,2026,Indian,10.91,22.43,5,28,129,0,0.5
+382,Bhuvneshwar Kumar,Bowler,India,Retained,0.0,10.75,RCB,2026,Indian,15.0,24.5,14,90,285,1,10.75
+383,Tim David,Batter,Australia,Retained,0.0,3.0,RCB,2026,Overseas,31.0,0.0,0,200,10,48,3.0
+384,Virat Kohli,Batter,India,Retained,0.0,21.0,RCB,2026,Indian,38.5,0.0,0,376,13,118,21.0
+385,Abhinandan Singh,Bowler,India,Retained,0.0,0.3,RCB,2026,Indian,10.46,23.78,11,42,164,0,0.3
+386,Yash Dayal,Bowler,India,Retained,0.0,5.0,RCB,2026,Indian,6.11,23.2,8,28,126,0,5.0
+387,Sandeep Sharma,Bowler,India,Retained,0.0,4.0,RR,2026,Indian,7.01,27.62,6,45,112,0,4.0
+388,Shimron Hetmyer,Batter,West Indies,Retained,0.0,11.0,RR,2026,Overseas,26.5,0.0,0,190,0,48,11.0
+389,Shubham Dubey,Batter,India,Retained,0.0,0.8,RR,2026,Indian,27.52,0.0,0,129,0,19,0.8
+390,Riyan Parag,Allrounder,India,Retained,0.0,14.0,RR,2026,Indian,25.0,32.0,1,95,45,18,14.0
+391,Ravindra Jadeja,Allrounder,India,Traded,0.0,14.0,RR,2026,Indian,26.0,29.5,4,250,310,28,14.0
+392,Tushar Deshpande,Bowler,India,Retained,0.0,6.5,RR,2026,Indian,10.27,23.2,13,52,182,0,6.5
+393,Nandre Burger,Bowler,South Africa,Retained,0.0,3.5,RR,2026,Overseas,4.0,21.5,3,10,40,0,3.5
+394,Lhuan-dre Pretorius,WK-Batter,South Africa,Retained,0.0,0.3,RR,2026,Overseas,34.07,0.0,0,157,0,35,0.3
+395,Vaibhav Suryavanshi,Batter,India,Retained,0.0,1.1,RR,2026,Indian,23.55,0.0,0,108,0,19,1.1
+396,Kwena Maphaka,Bowler,South Africa,Retained,0.0,1.5,RR,2026,Overseas,10.55,27.07,8,24,161,0,1.5
+397,Yashasvi Jaiswal,Batter,India,Retained,0.0,18.0,RR,2026,Indian,31.0,22.0,0,100,2,38,18.0
+398,Jofra Archer,Bowler,England,Retained,0.0,12.5,RR,2026,Overseas,9.72,24.89,12,17,196,0,12.5
+399,Yudhvir Singh Charak,Bowler,India,Retained,0.0,0.35,RR,2026,Indian,5.64,26.44,11,31,192,0,0.35
+400,Dhruv Jurel,WK-Batter,India,Retained,0.0,14.0,RR,2026,Indian,24.0,0.0,0,60,0,10,14.0
+401,Shreyas Iyer,Batter,India,Retained,0.0,26.75,PBKS,2026,Indian,30.5,0.0,0,215,5,65,26.75
+402,Shashank Singh,Allrounder,India,Retained,0.0,5.5,PBKS,2026,Indian,22.02,22.43,5,128,120,24,5.5
+403,Suryansh Shedge,Allrounder,India,Retained,0.0,0.3,PBKS,2026,Indian,20.75,26.31,4,128,120,20,0.3
+404,Pyla Avinash,Batter,India,Retained,0.0,0.3,PBKS,2026,Indian,24.22,0.0,0,115,0,22,0.3
+405,Vishnu Vinod,WK-Batter,India,Retained,0.0,0.95,PBKS,2026,Indian,25.63,0.0,0,150,0,22,0.95
+406,Priyansh Arya,Batter,India,Retained,0.0,3.8,PBKS,2026,Indian,32.85,0.0,0,189,0,37,3.8
+407,Vijaykumar Vyshak,Bowler,India,Retained,0.0,1.8,PBKS,2026,Indian,12.64,27.26,10,28,136,0,1.8
+408,Prabhsimran Singh,Batter,India,Retained,0.0,4.0,PBKS,2026,Indian,22.94,0.0,0,196,0,31,4.0
+409,Nehal Wadhera,Batter,India,Retained,0.0,4.2,PBKS,2026,Indian,25.17,0.0,0,136,0,27,4.2
+410,Xavier Bartlett,Bowler,Australia,Retained,0.0,0.8,PBKS,2026,Overseas,11.08,23.81,6,38,112,0,0.8
+411,Musheer Khan,Allrounder,India,Retained,0.0,0.3,PBKS,2026,Indian,21.97,25.55,5,109,168,16,0.3
+412,Yash Thakur,Bowler,India,Retained,0.0,1.6,PBKS,2026,Indian,9.13,22.96,8,49,133,0,1.6
+413,Mitchell Owen,Batter,Australia,Retained,0.0,3.0,PBKS,2026,Overseas,22.59,0.0,0,210,0,46,3.0
+414,Marcus Stoinis,Allrounder,Australia,Retained,0.0,11.0,PBKS,2026,Overseas,31.0,26.5,7,250,200,60,11.0
+415,Yuzvendra Chahal,Bowler,India,Retained,0.0,18.0,PBKS,2026,Indian,4.0,22.0,18,35,305,0,18.0
+416,Marco Jansen,Allrounder,South Africa,Retained,0.0,7.0,PBKS,2026,Overseas,18.0,25.0,3,60,80,8,7.0
+417,Harpreet Brar,Bowler,India,Retained,0.0,1.5,PBKS,2026,Indian,9.86,23.88,11,21,192,0,1.5
+418,Lockie Ferguson,Bowler,New Zealand,Retained,0.0,2.0,PBKS,2026,Overseas,6.0,24.0,7,35,140,0,2.0
+419,Harnoor Singh,Batter,India,Retained,0.0,0.3,PBKS,2026,Indian,22.83,0.0,0,119,0,20,0.3
+420,Azmatullah Omarzai,Allrounder,Afghanistan,Retained,0.0,2.4,PBKS,2026,Overseas,23.0,28.0,2,80,85,15,2.4
+421,Arshdeep Singh,Bowler,India,Retained,0.0,18.0,PBKS,2026,Indian,7.0,24.0,8,20,110,0,18.0
+422,Will Jacks,Allrounder,England,Retained,0.0,5.25,MI,2026,Overseas,29.0,26.0,3,140,70,38,5.25
+423,Trent Boult,Bowler,New Zealand,Retained,0.0,12.5,MI,2026,Overseas,9.0,26.0,14,65,255,0,12.5
+424,Tilak Varma,Batter,India,Retained,0.0,8.0,MI,2026,Indian,36.0,20.0,0,70,10,25,8.0
+425,Suryakumar Yadav,Batter,India,Retained,0.0,16.35,MI,2026,Indian,35.5,0.0,0,270,0,92,16.35
+426,Shardul Thakur,Allrounder,India,Traded,0.0,2.0,MI,2026,Indian,14.5,26.8,9,85,190,5,2.0
+427,Ryan Rickelton,WK-Batter,South Africa,Retained,0.0,1.0,MI,2026,Overseas,31.27,0.0,0,192,0,46,1.0
+428,Rohit Sharma,Batter,India,Retained,0.0,16.3,MI,2026,Indian,30.5,28.0,1,426,58,108,16.3
+429,Robin Minz,WK-Batter,India,Retained,0.0,0.65,MI,2026,Indian,22.73,0.0,0,199,0,30,0.65
+430,Raj Bawa,Allrounder,India,Retained,0.0,0.3,MI,2026,Indian,30.47,26.54,6,92,128,11,0.3
+431,Raghu Sharma,Bowler,India,Retained,0.0,0.3,MI,2026,Indian,9.44,22.64,14,52,196,0,0.3
+432,Naman Dhir,Batter,India,Retained,0.0,5.25,MI,2026,Indian,24.46,0.0,0,140,0,33,5.25
+433,Mitchell Santner,Allrounder,New Zealand,Retained,0.0,2.0,MI,2026,Overseas,22.5,23.5,4,140,180,22,2.0
+434,Mayank Markande,Bowler,India,Traded,0.0,0.3,MI,2026,Indian,13.87,30.2,4,7,54,0,0.3
+435,Jasprit Bumrah,Bowler,India,Retained,0.0,18.0,MI,2026,Indian,8.0,21.5,19,50,270,0,18.0
+436,Hardik Pandya,Allrounder,India,Retained,0.0,16.35,MI,2026,Indian,29.5,27.0,3,245,215,48,16.35
+437,Deepak Chahar,Bowler,India,Retained,0.0,9.25,MI,2026,Indian,13.8,28.2,6,55,145,2,9.25
+438,Corbin Bosch,Allrounder,South Africa,Retained,0.0,0.75,MI,2026,Overseas,31.73,26.48,3,151,131,19,0.75
+439,Ashwani Kumar,Batter,India,Retained,0.0,0.3,MI,2026,Indian,30.53,0.0,0,192,0,29,0.3
+440,AM Ghazanfar,Bowler,Afghanistan,Retained,0.0,4.8,MI,2026,Overseas,14.72,26.47,11,17,182,0,4.8
+441,Shahbaz Ahmed,Allrounder,India,Retained,0.0,2.4,LSG,2026,Indian,22.63,25.17,4,89,137,14,2.4
+442,Prince Yadav,Bowler,India,Retained,0.0,0.3,LSG,2026,Indian,12.48,23.42,7,49,115,0,0.3
+443,Nicholas Pooran,WK-Batter,West Indies,Retained,0.0,21.0,LSG,2026,Overseas,27.0,16.0,0,295,15,78,21.0
+444,Mohsin Khan,Bowler,India,Retained,0.0,4.0,LSG,2026,Indian,14.54,23.71,5,45,122,0,4.0
+445,Mitchell Marsh,Allrounder,Australia,Retained,0.0,3.4,LSG,2026,Overseas,30.0,24.0,3,170,130,42,3.4
+446,Mayank Yadav,Bowler,India,Retained,0.0,11.0,LSG,2026,Indian,7.43,25.77,11,38,199,0,11.0
+447,Matthew Breetzke,WK-Batter,South Africa,Retained,0.0,0.75,LSG,2026,Overseas,34.8,0.0,0,115,0,24,0.75
+448,Manimaran Siddharth,Bowler,India,Retained,0.0,0.75,LSG,2026,Indian,9.51,26.94,5,28,129,0,0.75
+449,Himmat Singh,Batter,India,Retained,0.0,0.3,LSG,2026,Indian,20.84,0.0,0,182,0,45,0.3
+450,Digvesh Singh Rathi,Bowler,India,Retained,0.0,0.3,LSG,2026,Indian,7.58,24.22,9,52,143,0,0.3
+451,Ayush Badoni,Batter,India,Retained,0.0,4.0,LSG,2026,Indian,30.92,0.0,0,185,0,46,4.0
+452,Avesh Khan,Bowler,India,Retained,0.0,9.75,LSG,2026,Indian,9.02,22.45,12,52,182,0,9.75
+453,Arshin Kulkarni,Allrounder,India,Retained,0.0,0.3,LSG,2026,Indian,22.22,27.02,3,165,131,24,0.3
+454,Aiden Markram,Batter,South Africa,Retained,0.0,2.0,LSG,2026,Overseas,32.0,25.0,1,150,70,38,2.0
+455,Abdul Samad,Batter,India,Retained,0.0,4.2,LSG,2026,Indian,31.7,0.0,0,203,0,35,4.2
+456,Shreyas Gopal,Bowler,India,Retained,0.0,0.3,CSK,2026,Indian,10.51,26.29,7,21,171,0,0.3
+457,Khaleel Ahmed,Bowler,India,Retained,0.0,4.8,CSK,2026,Indian,12.07,24.59,9,52,178,0,4.8
+458,Washington Sundar,Allrounder,India,Retained,0.0,3.2,GT,2026,Indian,18.0,30.0,2,110,150,8,3.2
+459,Shubman Gill,Batter,India,Retained,0.0,16.5,GT,2026,Indian,34.0,0.0,0,150,0,52,16.5
+460,Shahrukh Khan,Allrounder,India,Retained,0.0,4.0,GT,2026,Indian,24.6,27.02,2,151,100,23,4.0
+461,Sai Sudharsan,Batter,India,Retained,0.0,8.5,GT,2026,Indian,23.47,0.0,0,206,0,39,8.5
+462,Rashid Khan,Allrounder,Afghanistan,Retained,0.0,18.0,GT,2026,Overseas,13.5,20.5,15,165,430,8,18.0
+463,Rahul Tewatia,Allrounder,India,Retained,0.0,4.0,GT,2026,Indian,24.0,30.0,2,100,110,12,4.0
+464,Ravisrinivasan Sai Kishore,Bowler,India,Retained,0.0,2.0,GT,2026,Indian,12.29,22.66,12,24,182,0,2.0
+465,Prasidh Krishna,Bowler,India,Retained,0.0,9.5,GT,2026,Indian,11.76,22.06,13,24,206,0,9.5
+466,Nishant Sindhu,Allrounder,India,Retained,0.0,0.3,GT,2026,Indian,31.21,24.9,2,162,123,28,0.3
+467,Arshad Khan,Bowler,India,Retained,0.0,1.3,GT,2026,Indian,6.17,26.22,10,52,185,0,1.3
+468,Mohammed Siraj,Bowler,India,Retained,0.0,12.25,GT,2026,Indian,6.0,28.0,7,35,155,0,12.25
+469,Manav Suthar,Allrounder,India,Retained,0.0,0.3,GT,2026,Indian,33.62,23.98,5,120,137,20,0.3
+470,Kumar Kushagra,WK-Batter,India,Retained,0.0,0.65,GT,2026,Indian,27.25,0.0,0,154,0,31,0.65
+471,Kagiso Rabada,Bowler,South Africa,Retained,0.0,10.75,GT,2026,Overseas,10.0,23.5,12,55,215,0,10.75
+472,Jos Buttler,WK-Batter,England,Retained,0.0,15.75,GT,2026,Overseas,34.5,0.0,0,390,0,105,15.75
+473,Jayant Yadav,Allrounder,India,Retained,0.0,0.75,GT,2026,Indian,28.13,27.47,2,145,100,28,0.75
+474,Ishant Sharma,Bowler,India,Retained,0.0,0.75,GT,2026,Indian,5.0,29.0,4,45,160,0,0.75
+475,Gurnoor Brar,Bowler,India,Retained,0.0,1.3,GT,2026,Indian,7.75,23.66,8,38,168,0,1.3
+476,Glenn Phillips,Allrounder,New Zealand,Retained,0.0,2.0,GT,2026,Overseas,33.0,32.0,2,220,60,58,2.0
+477,Anuj Rawat,WK-Batter,India,Retained,0.0,0.3,GT,2026,Indian,22.15,0.0,0,175,0,27,0.3
+478,Vipraj Nigam,Bowler,India,Retained,0.0,0.5,DC,2026,Indian,5.19,24.21,9,28,199,0,0.5
+479,Tristan Stubbs,Batter,South Africa,Retained,0.0,10.0,DC,2026,Overseas,30.0,26.0,0,70,20,18,10.0
+480,Tripurana Vijay,Bowler,India,Retained,0.0,0.3,DC,2026,Indian,11.93,24.61,8,21,175,0,0.3
+481,T Natarajan,Bowler,India,Retained,0.0,10.75,DC,2026,Indian,11.77,27.81,11,35,206,0,10.75
+482,Sameer Rizvi,Batter,India,Retained,0.0,0.95,DC,2026,Indian,26.67,0.0,0,175,0,32,0.95
+483,Nitish Rana,Batter,India,Traded,0.0,4.2,DC,2026,Indian,28.0,24.0,2,190,95,48,4.2
+484,Mukesh Kumar,Bowler,India,Retained,0.0,8.0,DC,2026,Indian,8.32,23.08,13,49,199,0,8.0
+485,Mitchell Starc,Bowler,Australia,Retained,0.0,11.75,DC,2026,Overseas,5.64,26.15,8,49,154,0,11.75
+486,Madhav Tiwari,Allrounder,India,Retained,0.0,0.4,DC,2026,Indian,27.01,23.99,4,159,103,23,0.4
+487,Kuldeep Yadav,Bowler,India,Retained,0.0,13.25,DC,2026,Indian,11.0,21.5,10,40,175,0,13.25
+488,KL Rahul,WK-Batter,India,Retained,0.0,14.0,DC,2026,Indian,42.0,0.0,0,230,0,98,14.0
+489,Karun Nair,Batter,India,Retained,0.0,0.5,DC,2026,Indian,21.26,0.0,0,126,0,24,0.5
+490,Dushmantha Chameera,Bowler,Sri Lanka,Retained,0.0,0.75,DC,2026,Overseas,6.0,26.5,4,25,110,0,0.75
+491,Axar Patel,Allrounder,India,Retained,0.0,16.5,DC,2026,Indian,22.0,28.0,6,175,260,15,16.5
+492,Ashutosh Sharma,Allrounder,India,Retained,0.0,3.8,DC,2026,Indian,28.7,25.24,3,145,103,19,3.8
+493,Ajay Jadav Mandal,Allrounder,India,Retained,0.0,0.3,DC,2026,Indian,24.03,23.18,4,126,151,24,0.3
+494,Abishek Porel,WK-Batter,India,Retained,0.0,4.0,DC,2026,Indian,32.79,0.0,0,129,0,26,4.0
+495,Varun Chakaravarthy,Bowler,India,Retained,0.0,12.0,KKR,2026,Indian,5.0,24.5,8,20,100,0,12.0
+496,Vaibhav Arora,Bowler,India,Retained,0.0,1.8,KKR,2026,Indian,5.59,26.72,7,45,157,0,1.8
+497,Umran Malik,Bowler,India,Retained,0.0,0.75,KKR,2026,Indian,6.26,24.73,13,21,203,0,0.75
+498,Sunil Narine,Allrounder,West Indies,Retained,0.0,12.0,KKR,2026,Overseas,15.0,21.5,13,290,495,18,12.0
+499,Rovman Powell,Batter,West Indies,Retained,0.0,1.5,KKR,2026,Overseas,24.0,30.0,0,200,40,42,1.5
+500,Rinku Singh,Batter,India,Retained,0.0,13.0,KKR,2026,Indian,32.0,0.0,0,100,0,20,13.0
+501,Ramandeep Singh,Allrounder,India,Retained,0.0,4.0,KKR,2026,Indian,31.07,23.62,3,140,112,14,4.0
+502,Manish Pandey,Batter,India,Retained,0.0,0.75,KKR,2026,Indian,29.0,0.0,0,310,0,72,0.75
+503,Harshit Rana,Bowler,India,Retained,0.0,4.0,KKR,2026,Indian,7.08,26.82,7,42,154,0,4.0
+504,Anukul Roy,Allrounder,India,Retained,0.0,0.4,KKR,2026,Indian,22.11,25.03,4,142,137,15,0.4
+505,Angkrish Raghuvanshi,Batter,India,Retained,0.0,3.0,KKR,2026,Indian,23.53,0.0,0,108,0,26,3.0
+506,Ajinkya Rahane,Batter,India,Retained,0.0,1.5,KKR,2026,Indian,29.5,0.0,0,360,0,92,1.5
+507,Urvil Patel,WK-Batter,India,Retained,0.0,0.3,CSK,2026,Indian,33.24,0.0,0,164,0,34,0.3
+508,Dewald Brevis,Batter,South Africa,Retained,0.0,2.2,CSK,2026,Overseas,33.39,0.0,0,182,0,42,2.2
+509,Ayush Mhatre,Allrounder,India,Retained,0.0,0.3,CSK,2026,Indian,22.24,26.84,4,120,140,15,0.3
+510,Shivam Dube,Allrounder,India,Retained,0.0,12.0,CSK,2026,Indian,27.0,32.0,1,130,70,32,12.0
+511,Ruturaj Gaikwad,Batter,India,Retained,0.0,18.0,CSK,2026,Indian,38.0,0.0,0,130,0,48,18.0
+512,Sanju Samson,WK-Batter,India,Traded,0.0,18.0,CSK,2026,Indian,29.5,0.0,0,250,0,75,18.0
+513,Ramakrishna Ghosh,Allrounder,India,Retained,0.0,0.3,CSK,2026,Indian,29.13,25.03,6,151,145,27,0.3
+514,Noor Ahmad,Bowler,Afghanistan,Retained,0.0,10.0,CSK,2026,Overseas,14.5,22.29,9,17,171,0,10.0
+515,Nathan Ellis,Bowler,Australia,Retained,0.0,2.0,CSK,2026,Overseas,6.0,23.0,4,20,110,0,2.0
+516,Mukesh Choudhary,Bowler,India,Retained,0.0,0.3,CSK,2026,Indian,11.35,22.63,6,45,126,0,0.3
+517,MS Dhoni,WK-Batter,India,Retained,0.0,4.0,CSK,2026,Indian,38.0,0.0,0,380,0,85,4.0
+518,Jamie Overton,Allrounder,England,Retained,0.0,1.5,CSK,2026,Overseas,23.94,22.65,4,103,117,19,1.5
+519,Gurjapneet Singh,Bowler,India,Retained,0.0,2.2,CSK,2026,Indian,10.12,23.87,9,42,175,0,2.2
+520,Anshul Kamboj,Bowler,India,Retained,0.0,3.4,CSK,2026,Indian,8.58,22.31,6,49,157,0,3.4
